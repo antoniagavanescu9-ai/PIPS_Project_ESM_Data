@@ -67,4 +67,6 @@ The app supports:
 
 ## Data source
 
-The statistical analysis uses the `0013_hoebeke` dataset from [OpenESM](https://openesmdata.org/). Consult the original dataset documentation for study details and data-use conditions.
+The statistical analysis uses the `0013_hoebeke` dataset from [OpenESM](https://openesmdata.org/). Consult the original dataset documentation for study details and data-use conditions (Hoebeke, Y., Blanchard, M. A., Contreras, A., & Heeren, A. (2022). An experience sampling measure of the key features of rumination. Clinical Neuropsychiatry, 19(5), 288–297. https://doi.org/10.36131/cnfioritieditore20220504)
+
+
