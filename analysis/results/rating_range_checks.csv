@@ -1,0 +1,7 @@
+"variable","minimum","maximum","n_unique","n_below_0","n_above_100"
+"perseverance",0,100,99,0,0
+"negativity",0,100,98,0,0
+"self_criticism",0,100,96,0,0
+"brooding",0,100,98,0,0
+"replaying",0,100,97,0,0
+"att_control",0,100,99,0,0
